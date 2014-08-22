@@ -1,0 +1,12 @@
+#box {
+  border: 10px;
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  /*margin: 0 auto;*/
+}
+
+body {
+  
+}
